@@ -5,6 +5,9 @@
 [submodule "descsuppR"]
 	path = descsuppR
 	url = https://github.com/cran/descsuppR
+[submodule "descsuppRplots"]
+	path = descsuppRplots
+	url = https://github.com/cran/descsuppRplots
 [submodule "descutils"]
 	path = descutils
 	url = https://github.com/cran/descutils
